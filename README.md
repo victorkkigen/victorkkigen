@@ -8,7 +8,7 @@ I'm the founder of [**MZURI AI**](https://mzuri.africa) — the quality infrastr
 
 **Before MZURI.** I co-founded [**SCIO ERP**](https://scio.com), a multi-tenant SaaS for African enterprises, and scaled it from zero to 30 paying clients across tea, flower and horticulture farms, construction, and SMEs in Kenya. $100K MRR, 300+ users, 30,000+ smallholder farmers on the platform. I architected the embedded fintech rails: mobile money payroll for 36,000 farmers, USSD-based farmer credit that cut broker fees from 40% to 5%, and automated tax compliance. Hired and led the engineering team.
 
-**Currently.** Building MZURI's hardware and software in parallel, raising a £250K pre-seed, and finishing an MSc in AI Applications and Innovation at Imperial College London — concentrating on safety-critical ML, trustworthy AI in medical imaging, and responsible AI deployment. Most of my code lives in private repos; the contribution graph below is real.
+**Currently.** Building MZURI's hardware and software in parallel, raising a £400K pre-seed, and finishing an MSc in AI Applications and Innovation at Imperial College London — concentrating on safety-critical ML, trustworthy AI in medical imaging, and responsible AI deployment. Most of my code lives in private repos; the contribution graph below is real.
 
 **Stack I work in.** TypeScript, React, Node, PostgreSQL, Drizzle, Python, embedded firmware adjacent. PHP for legacy enterprise systems still serving thousands of users.
 
